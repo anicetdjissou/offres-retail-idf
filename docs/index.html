@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Offres Data / Retail — Île-de-France</title>
+<style>
+  :root {
+    --bg: #f7f7f8;
+    --panel: #ffffff;
+    --border: #e4e4e7;
+    --text: #1a1a1a;
+    --muted: #6b7280;
+    --accent: #2563eb;
+    --ok: #16a34a;
+    --ok-bg: #dcfce7;
+    --err: #dc2626;
+    --err-bg: #fee2e2;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f0f10;
+      --panel: #1a1a1c;
+      --border: #2c2c30;
+      --text: #f2f2f2;
+      --muted: #9a9aa2;
+      --accent: #60a5fa;
+      --ok: #4ade80;
+      --ok-bg: #14361f;
+      --err: #f87171;
+      --err-bg: #3a1616;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    padding: 24px;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; }
+  h1 { font-size: 1.4rem; margin: 0 0 4px; }
+  .subtitle { color: var(--muted); margin: 0 0 20px; font-size: 0.9rem; }
+
+  .health {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 16px;
+    margin-bottom: 16px;
+    font-size: 0.85rem;
+  }
+  .health .updated { color: var(--muted); margin-right: 8px; }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-weight: 600;
+  }
+  .chip.ok { background: var(--ok-bg); color: var(--ok); }
+  .chip.err { background: var(--err-bg); color: var(--err); }
+  .chip .dot { width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+  .controls input, .controls select {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text);
+    font-size: 0.9rem;
+  }
+  .controls input[type="search"] { flex: 1; min-width: 200px; }
+  .count { color: var(--muted); font-size: 0.85rem; margin-bottom: 10px; }
+
+  .table-scroll {
+    overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--panel);
+  }
+  table { border-collapse: collapse; width: 100%; font-size: 0.88rem; min-width: 720px; }
+  th, td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th {
+    cursor: pointer;
+    user-select: none;
+    color: var(--muted);
+    font-weight: 600;
+    white-space: nowrap;
+    position: sticky;
+    top: 0;
+    background: var(--panel);
+  }
+  th:hover { color: var(--text); }
+  th .arrow { opacity: 0.5; margin-left: 4px; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(37, 99, 235, 0.05); }
+  td.title a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  td.title a:hover { text-decoration: underline; }
+  td.company, td.location { color: var(--text); }
+  td.keyword, td.source, td.date { color: var(--muted); white-space: nowrap; }
+  .source-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 6px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    font-size: 0.78rem;
+    text-transform: capitalize;
+  }
+  .empty { padding: 40px; text-align: center; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Offres Data / Retail — Île-de-France</h1>
+  <p class="subtitle">Data Analyst Retail · Prévision des ventes · Demand Planner · Contrôleur de gestion retail — LinkedIn, Indeed, HelloWork, mises à jour chaque jour.</p>
+
+  <div class="health" id="health">Chargement…</div>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Filtrer par titre ou entreprise…">
+    <select id="keywordFilter"><option value="">Tous les métiers</option></select>
+    <select id="sourceFilter"><option value="">Tous les sites</option></select>
+  </div>
+
+  <p class="count" id="count"></p>
+
+  <div class="table-scroll">
+    <table id="jobsTable">
+      <thead>
+        <tr>
+          <th data-key="date_posted">Publiée le <span class="arrow"></span></th>
+          <th data-key="title">Offre <span class="arrow"></span></th>
+          <th data-key="company">Entreprise <span class="arrow"></span></th>
+          <th data-key="location">Lieu <span class="arrow"></span></th>
+          <th data-key="search_keyword">Métier recherché <span class="arrow"></span></th>
+          <th data-key="source">Site <span class="arrow"></span></th>
+        </tr>
+      </thead>
+      <tbody id="jobsBody"></tbody>
+    </table>
+    <div class="empty" id="emptyState" hidden>Aucune offre ne correspond à ce filtre.</div>
+  </div>
+</div>
+
+<script>
+let ALL_JOBS = [];
+let sortKey = "date_posted";
+let sortDir = -1; // plus récent d'abord
+
+async function loadData() {
+  const [jobsRes, logRes] = await Promise.all([
+    fetch("data/jobs.json").catch(() => null),
+    fetch("data/run_log.json").catch(() => null),
+  ]);
+  ALL_JOBS = jobsRes && jobsRes.ok ? await jobsRes.json() : [];
+  const runLog = logRes && logRes.ok ? await logRes.json() : null;
+
+  renderHealth(runLog);
+  populateFilters(ALL_JOBS);
+  render();
+}
+
+function renderHealth(runLog) {
+  const el = document.getElementById("health");
+  if (!runLog) {
+    el.innerHTML = "<span class=\"updated\">Pas encore de données — le Robot n'a pas encore tourné.</span>";
+    return;
+  }
+  const updated = new Date(runLog.last_run);
+  const updatedStr = isNaN(updated) ? runLog.last_run : updated.toLocaleString("fr-FR", { dateStyle: "long", timeStyle: "short" });
+  let html = `<span class="updated">Dernière mise à jour : ${updatedStr}</span>`;
+  for (const s of (runLog.statuses || [])) {
+    const cls = s.ok ? "ok" : "err";
+    const label = s.ok ? `${s.source} : OK (${s.count})` : `${s.source} : en panne`;
+    const title = s.error ? ` title="${s.error.replace(/"/g, '&quot;')}"` : "";
+    html += `<span class="chip ${cls}"${title}><span class="dot"></span>${label}</span>`;
+  }
+  el.innerHTML = html;
+}
+
+function populateFilters(jobs) {
+  const keywordSel = document.getElementById("keywordFilter");
+  const sourceSel = document.getElementById("sourceFilter");
+  const keywords = [...new Set(jobs.map(j => j.search_keyword).filter(Boolean))].sort();
+  const sources = [...new Set(jobs.map(j => j.source).filter(Boolean))].sort();
+  for (const k of keywords) {
+    const opt = document.createElement("option");
+    opt.value = k; opt.textContent = k;
+    keywordSel.appendChild(opt);
+  }
+  for (const s of sources) {
+    const opt = document.createElement("option");
+    opt.value = s; opt.textContent = s;
+    sourceSel.appendChild(opt);
+  }
+}
+
+function currentFilters() {
+  return {
+    text: document.getElementById("search").value.trim().toLowerCase(),
+    keyword: document.getElementById("keywordFilter").value,
+    source: document.getElementById("sourceFilter").value,
+  };
+}
+
+function render() {
+  const { text, keyword, source } = currentFilters();
+  let rows = ALL_JOBS.filter(j => {
+    if (keyword && j.search_keyword !== keyword) return false;
+    if (source && j.source !== source) return false;
+    if (text) {
+      const hay = `${j.title} ${j.company}`.toLowerCase();
+      if (!hay.includes(text)) return false;
+    }
+    return true;
+  });
+
+  rows.sort((a, b) => {
+    const av = (a[sortKey] || "").toString();
+    const bv = (b[sortKey] || "").toString();
+    return av < bv ? -1 * sortDir : av > bv ? 1 * sortDir : 0;
+  });
+
+  const tbody = document.getElementById("jobsBody");
+  tbody.innerHTML = "";
+  for (const j of rows) {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td class="date">${j.date_posted || "?"}</td>
+      <td class="title"><a href="${j.url}" target="_blank" rel="noopener">${escapeHtml(j.title || "(sans titre)")}</a></td>
+      <td class="company">${escapeHtml(j.company || "")}</td>
+      <td class="location">${escapeHtml(j.location || "")}</td>
+      <td class="keyword">${escapeHtml(j.search_keyword || "")}</td>
+      <td class="source"><span class="source-tag">${escapeHtml(j.source || "")}</span></td>
+    `;
+    tbody.appendChild(tr);
+  }
+
+  document.getElementById("count").textContent = `${rows.length} offre${rows.length > 1 ? "s" : ""} affichée${rows.length > 1 ? "s" : ""} sur ${ALL_JOBS.length} au total`;
+  document.getElementById("emptyState").hidden = rows.length !== 0;
+
+  document.querySelectorAll("th[data-key]").forEach(th => {
+    const arrow = th.querySelector(".arrow");
+    arrow.textContent = th.dataset.key === sortKey ? (sortDir === 1 ? "▲" : "▼") : "";
+  });
+}
+
+function escapeHtml(str) {
+  return String(str).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+document.querySelectorAll("th[data-key]").forEach(th => {
+  th.addEventListener("click", () => {
+    const key = th.dataset.key;
+    if (sortKey === key) sortDir *= -1;
+    else { sortKey = key; sortDir = key === "date_posted" ? -1 : 1; }
+    render();
+  });
+});
+
+document.getElementById("search").addEventListener("input", render);
+document.getElementById("keywordFilter").addEventListener("change", render);
+document.getElementById("sourceFilter").addEventListener("change", render);
+
+loadData();
+</script>
+</body>
+</html>

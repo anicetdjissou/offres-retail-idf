@@ -1,0 +1,33 @@
+name: daily-scrape
+
+on:
+  schedule:
+    - cron: "17 5 * * *"  # tous les jours vers 5h17 UTC (~7h17 en France) — l'heure exacte peut varier un peu
+  workflow_dispatch: {}    # bouton "Run workflow" dans l'onglet Actions de GitHub, pour lancer à la main
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r scraper/requirements.txt
+
+      - name: Lancer le Robot chercheur d'offres
+        run: python -m scraper.run
+
+      - name: Enregistrer les nouvelles données
+        run: |
+          git config user.name "job-scraper-bot"
+          git config user.email "actions@github.com"
+          git add data/ docs/data/
+          git diff --staged --quiet || git commit -m "chore: mise à jour quotidienne des offres $(date -u +%F)"
+          git push
