@@ -1,25 +1,25 @@
 {
-  "last_run": "2026-08-13T06:49:52.043786+00:00",
+  "last_run": "2026-08-14T06:47:37.775341+00:00",
   "statuses": [
     {
       "source": "linkedin",
       "ok": true,
-      "count": 149,
+      "count": 160,
       "error": null
     },
     {
       "source": "indeed",
       "ok": true,
-      "count": 27,
+      "count": 41,
       "error": null
     },
     {
       "source": "hellowork",
       "ok": true,
-      "count": 36,
+      "count": 40,
       "error": null
     }
   ],
-  "total_jobs": 503,
-  "fresh_jobs_today": 211
+  "total_jobs": 581,
+  "fresh_jobs_today": 236
 }
