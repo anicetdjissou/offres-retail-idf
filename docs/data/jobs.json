@@ -1,7 +1,247 @@
 [
   {
     "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "Business Analyst - Performance des actifs F/H",
+    "company": "Groupe SNCF",
+    "location": "St.-Denis, Île-de-France, France",
+    "date_posted": "2026-10-10",
+    "url": "https://www.linkedin.com/jobs/view/4476250333",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "source": "linkedin",
     "search_keyword": "Prévision des ventes",
+    "title": "Concepteur Vendeur Cuisine F/H",
+    "company": "Darty",
+    "location": "Mantes-la-Jolie, Île-de-France, France",
+    "date_posted": "2026-10-10",
+    "url": "https://www.linkedin.com/jobs/view/4475510743",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Product Manager H/F",
+    "company": "De Graët Consulting",
+    "location": "Yvelines - 78",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84259073.html",
+    "first_seen": "2026-10-09"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "CDI - Business Analyst (H/F)",
+    "company": "Parfums Christian Dior",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-10",
+    "url": "https://www.linkedin.com/jobs/view/4449451886",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Visual Merchandising Budget Analyst (H/F)",
+    "company": "Christian Dior Couture",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-10",
+    "url": "https://www.linkedin.com/jobs/view/4450283233",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Concepteur Vendeur Cuisine",
+    "company": "Darty",
+    "location": "Gennevilliers, Île-de-France, France",
+    "date_posted": "2026-10-10",
+    "url": "https://www.linkedin.com/jobs/view/4427160438",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Endoluminal Sales Manager France & Benelux",
+    "company": "Intuitive",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-10",
+    "url": "https://www.linkedin.com/jobs/view/4450243300",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
+    "title": "Responsable supply chain clients (H/F)",
+    "company": "LISI AEROSPACE",
+    "location": "Saint-Ouen-l’Aumône, Île-de-France, France",
+    "date_posted": "2026-10-10",
+    "url": "https://www.linkedin.com/jobs/view/4478042146",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "FP&A Controller F/H",
+    "company": "asmodee",
+    "location": "Boulogne-Billancourt, Île-de-France, France",
+    "date_posted": "2026-10-10",
+    "url": "https://www.linkedin.com/jobs/view/4476859877",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Demand Planner",
+    "title": "Demand Planner H/F",
+    "company": "Sinclair Ressources",
+    "location": "Hauts-de-Seine - 92",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/83214177.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Directeur de Business Unit Data & IA Paris H/F",
+    "company": "Skaelia",
+    "location": "Paris 1er - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84308053.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Responsable Practice Data - IA Paris H/F",
+    "company": "Skaelia",
+    "location": "Paris 1er - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84307901.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Responsable d'Agence IA & Data - Paris H/F",
+    "company": "Skaelia",
+    "location": "Paris 1er - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84296174.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Sushiman H/F",
+    "company": "Veng Hour",
+    "location": "Le Chesnay-Rocquencourt - 78",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/79932034.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Stage - Supply Chain Data & Operations Analyst H/F",
+    "company": "Sézane",
+    "location": "Paris - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/83202883.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Assistant Logistique et Commercial Après-Vente H/F",
+    "company": "Jobmania",
+    "location": "Paris - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/83202769.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Econome H/F",
+    "company": "Staffmatch",
+    "location": "Paris - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/79978153.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Gestionnaire Flux Matériaux et Support Exportation H/F",
+    "company": "ISD",
+    "location": "Versailles - 78",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/83176718.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Chargé de Gestion Financière Réseau - CDD H/F",
+    "company": "Intersport",
+    "location": "Longjumeau - 91",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84284107.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Stage Contrôle de Gestion H/F",
+    "company": "Arkema",
+    "location": "Puteaux - 92",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84273282.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Agent Commercial H/F",
+    "company": "Noviac",
+    "location": "Paris - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84263532.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Chief Sales Officer de Transition H/F",
+    "company": "Bloomays",
+    "location": "Paris - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84261577.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Prévision des ventes",
+    "title": "Chef de Produits - Gammes Pro Autolaveuses - Balayeuses H/F",
+    "company": "Kärcher SAS",
+    "location": "Bonneuil-sur-Marne - 94",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84261139.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Demand Planner",
+    "title": "Responsable de Rayon Fruits et Légumes H/F",
+    "company": "Monoprix",
+    "location": "Paris 6e - 75",
+    "date_posted": "2026-10-10",
+    "url": "https://www.hellowork.com/fr-fr/emplois/83214618.html",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
     "title": "Analyste Senior Revenue Management F/H",
     "company": "JCDecaux",
     "location": "Neuilly-sur-Seine, Île-de-France, France",
@@ -28,16 +268,6 @@
     "date_posted": "2026-10-09",
     "url": "https://www.linkedin.com/jobs/view/4465552337",
     "first_seen": "2026-09-16"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Business Analyst - Performance des actifs F/H",
-    "company": "Groupe SNCF",
-    "location": "St.-Denis, Île-de-France, France",
-    "date_posted": "2026-10-09",
-    "url": "https://www.linkedin.com/jobs/view/4476250333",
-    "first_seen": "2026-10-09"
   },
   {
     "source": "linkedin",
@@ -348,6 +578,386 @@
     "date_posted": "2026-10-09",
     "url": "https://www.hellowork.com/fr-fr/emplois/83157336.html",
     "first_seen": "2026-10-09"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "Lead Data Analyste H/F",
+    "company": "Ecomaison",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4456301500",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "Client Insights Data Analyst (F/H)",
+    "company": "Louis Vuitton",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4432406350",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "CDI - Senior Data Scientist - (X/F/H)",
+    "company": "CHANEL",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4467870142",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Contrôleur de gestion retail et digital - F/H",
+    "company": "celio",
+    "location": "St.-Ouen, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4475200609",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "Senior Data Analyst",
+    "company": "Skello",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4440945326",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "CDI – Contrôleur/se de Gestion Commercial (F/H)",
+    "company": "GROUPE BON MARCHÉ : Le Bon Marché Rive Gauche, La Grande Epicerie de Paris et la Samaritaine",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476299550",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "Analytic Consultant",
+    "company": "NielsenIQ",
+    "location": "Bezons, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476808418",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "CDD - Data Analyst F/H",
+    "company": "La Poste Groupe",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4477836659",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Conseiller technique de vente Applied H/F",
+    "company": "Carrier",
+    "location": "Massy, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476854663",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Ingénieur Commercial Conseil Fiscalité Locale H/F",
+    "company": "Ayming",
+    "location": "Levallois-Perret, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4363979337",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Technico-commercial H/F",
+    "company": "Unéo",
+    "location": "Montrouge, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476854519",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Technico-commercial Itinérant Junior F/H",
+    "company": "KEYENCE CORPORATION",
+    "location": "Bois-Colombes, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476822101",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Ingénieur Technico-commercial Itinérant Junior F/H",
+    "company": "KEYENCE CORPORATION",
+    "location": "Bois-Colombes, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476816441",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Head of Technical Sales M/W",
+    "company": "Pasqal",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4469143269",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "CDI - Conseiller de vente en menuiserie (H/F) Saint-Denis (93)",
+    "company": "Leroy Merlin",
+    "location": "St.-Denis, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4475223902",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
+    "title": "Supply Planner F/H",
+    "company": "Reckitt",
+    "location": "Massy, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4477869315",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
+    "title": "Distribution Planner H/F",
+    "company": "Polène Paris",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4460101479",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
+    "title": "Gestionnaire Approvisionnement Junior (H/F)",
+    "company": "Groupe Rand",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4477671751",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
+    "title": "Responsable supply chain clients (H/F)",
+    "company": "LISI GROUP",
+    "location": "Saint-Ouen-l’Aumône, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4475278186",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
+    "title": "Assistant.e Approvisionnement (H/F)",
+    "company": "Groupe Rand",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4477681406",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "CDI - CONTROLEUR DE GESTION MARCHES H/F",
+    "company": "Hermès",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4391694376",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "CDD - Contrôleur de Gestion Hermès Maison (H/F)",
+    "company": "Hermès",
+    "location": "Pantin, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4467582102",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Contrôleur interne et financier H/F",
+    "company": "Intermarché",
+    "location": "Bondoufle, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476803430",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Directeur(rice) Contrôle de Gestion Industriel (F/H)",
+    "company": "Louis Vuitton",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4477882764",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Business Controller / Commercial Finance Business Partner",
+    "company": "Midea France",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476808379",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Responsable des Opérations Retail - Western Europe",
+    "company": "Le Creuset",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4476820966",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Responsable des Opérations Retail, Maison française de l’art de la table haut de gamme, Paris H/F - CDI",
+    "company": "RMS",
+    "location": "Paris, Île-de-France, France",
+    "date_posted": "2026-10-09",
+    "url": "https://www.linkedin.com/jobs/view/4475234272",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Data Analyst Retail",
+    "title": "Data analyst power bi (H/F)",
+    "company": "Tibco",
+    "location": "Paris, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=d3dc660faa38e0e0",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Data Analyst Retail",
+    "title": "Data Analyst Confirmé – SQL / BigQuery / MDM (H/F)",
+    "company": "Espritek",
+    "location": "Paris, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=a044d5bac964cd80",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "Retail Merchandiser International F/H",
+    "company": "Celio",
+    "location": "Saint-Ouen, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=b029094e3b8155fa",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "Sales Manager Cybersecurity - F/H",
+    "company": "Accenture",
+    "location": "Paris, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=3e49a6c0ed786094",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "Formateur Gestion Opérationnelle H/F",
+    "company": "GROUPE ALTERNANCE MANTES LA JOLIE",
+    "location": "Mantes-la-Jolie, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=dde99c3f210ce61d",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "Responsable Business développement CHR/Special Market",
+    "company": "Le Creuset",
+    "location": "Paris 9e, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=1a931f1c0a50fd88",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "Chargé de gestion financière réseau (H/F)​ - cdd 6 mois",
+    "company": "Intersport",
+    "location": "Longjumeau, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=d9916ad6c174d985",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "Stage : Contrôle de Gestion H/F",
+    "company": "Arkema",
+    "location": "La Défense, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=7618d8281205b59e",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "Analyste Financier Commercial FBL",
+    "company": "GE HealthCare",
+    "location": "Buc, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=9a974905f59bc2f5",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "chef de cuisine",
+    "company": "M GALLERY",
+    "location": "Presles, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=854f35a8881326b1",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Demand Planner",
+    "title": "Supply Planner F/H",
+    "company": "Reckitt",
+    "location": "Massy, A8, France",
+    "date_posted": "2026-10-09",
+    "url": "https://fr.indeed.com/viewjob?jk=cb1a278f2df0dc3c",
+    "first_seen": "2026-10-10"
   },
   {
     "source": "linkedin",
@@ -948,6 +1558,66 @@
     "date_posted": "2026-10-08",
     "url": "https://fr.indeed.com/viewjob?jk=a1b4fd975ed1e805",
     "first_seen": "2026-10-09"
+  },
+  {
+    "source": "hellowork",
+    "search_keyword": "Contrôleur de gestion retail",
+    "title": "Contrôleur de Gestion Commerce H/F",
+    "company": "Fnac Darty",
+    "location": "Val-de-Marne - 94",
+    "date_posted": "2026-10-08",
+    "url": "https://www.hellowork.com/fr-fr/emplois/84175781.html",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Data Analyst Retail",
+    "title": "Chargé Commercial (F/H)",
+    "company": "Carrefour",
+    "location": "Massy, Île-de-France, France",
+    "date_posted": "2026-10-08",
+    "url": "https://www.linkedin.com/jobs/view/4463457121",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Ingénieur Technico-Commercial (H/F)",
+    "company": "NEU-JKF Delta Neu",
+    "location": "Greater Paris Metropolitan Region",
+    "date_posted": "2026-10-08",
+    "url": "https://www.linkedin.com/jobs/view/4466057798",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
+    "title": "Gestionnaire de Stock 2 (h/f)",
+    "company": "Surventis",
+    "location": "Clermont, Hauts-de-France, France",
+    "date_posted": "2026-10-08",
+    "url": "https://www.linkedin.com/jobs/view/4474815640",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Demand Planner",
+    "title": "STAGE 6 MOIS - Assistant Demand Planning F/H/X - Issy-les-Moulineaux - JANVIER 2027",
+    "company": "Coca-Cola Europacific Partners",
+    "location": "Issy-les-Moulineaux, Île-de-France, France",
+    "date_posted": "2026-10-08",
+    "url": "https://www.linkedin.com/jobs/view/4463345615",
+    "first_seen": "2026-10-10"
+  },
+  {
+    "source": "indeed",
+    "search_keyword": "Prévision des ventes",
+    "title": "Responsable Administratif et Comptable H/F",
+    "company": "Hotels at Home",
+    "location": "Roissy-en-France, A8, France",
+    "date_posted": "2026-10-08",
+    "url": "https://fr.indeed.com/viewjob?jk=b3ac919f0034adec",
+    "first_seen": "2026-10-10"
   },
   {
     "source": "linkedin",
@@ -1590,16 +2260,6 @@
     "first_seen": "2026-10-08"
   },
   {
-    "source": "hellowork",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Contrôleur de Gestion Commerce H/F",
-    "company": "Fnac Darty",
-    "location": "Val-de-Marne - 94",
-    "date_posted": "2026-10-07",
-    "url": "https://www.hellowork.com/fr-fr/emplois/84175781.html",
-    "first_seen": "2026-10-08"
-  },
-  {
     "source": "linkedin",
     "search_keyword": "Contrôleur de gestion retail",
     "title": "Senior Manager Finance France",
@@ -1628,6 +2288,16 @@
     "date_posted": "2026-10-07",
     "url": "https://www.linkedin.com/jobs/view/4475454675",
     "first_seen": "2026-10-09"
+  },
+  {
+    "source": "linkedin",
+    "search_keyword": "Prévision des ventes",
+    "title": "Consultant Avant-Vente Odoo (F/H)",
+    "company": "ADSI Tech",
+    "location": "Île-de-France, France",
+    "date_posted": "2026-10-07",
+    "url": "https://www.linkedin.com/jobs/view/4424889351",
+    "first_seen": "2026-10-10"
   },
   {
     "source": "linkedin",
@@ -2161,7 +2831,7 @@
   },
   {
     "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
+    "search_keyword": "Demand Planner",
     "title": "Sales Business Operations Executive France",
     "company": "Apple",
     "location": "Paris, Île-de-France, France",
@@ -2538,16 +3208,6 @@
     "date_posted": "2026-10-06",
     "url": "https://fr.indeed.com/viewjob?jk=01b4138db881150c",
     "first_seen": "2026-10-06"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Lead Data Analyste H/F",
-    "company": "Ecomaison",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-10-06",
-    "url": "https://www.linkedin.com/jobs/view/4456301500",
-    "first_seen": "2026-09-24"
   },
   {
     "source": "linkedin",
@@ -3557,16 +4217,6 @@
     "location": "Paris, Île-de-France, France",
     "date_posted": "2026-10-04",
     "url": "https://www.linkedin.com/jobs/view/4438337674",
-    "first_seen": "2026-10-05"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Concepteur Vendeur Cuisine F/H",
-    "company": "Darty",
-    "location": "Mantes-la-Jolie, Île-de-France, France",
-    "date_posted": "2026-10-04",
-    "url": "https://www.linkedin.com/jobs/view/4475510743",
     "first_seen": "2026-10-05"
   },
   {
@@ -9178,1076 +9828,6 @@
     "date_posted": "2026-09-26",
     "url": "https://www.linkedin.com/jobs/view/4463719386",
     "first_seen": "2026-09-30"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Data Analyst Retail",
-    "title": "CDI - Chargé(e) d'études qualité Sephora Europe (F/H/X)",
-    "company": "Sephora",
-    "location": "Neuilly-sur-Seine, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=d0970332e9b7ea76",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Approvisionneur F/H/D",
-    "company": "Bosch",
-    "location": "Drancy, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=61ecbef1ab0a36d9",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Analyst FP&A central EMEA H/F",
-    "company": "SOCOTEC Group",
-    "location": "Guyancourt, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=9240101135cab523",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Demand Planner",
-    "title": "Demand Planner H/F",
-    "company": "La Halle",
-    "location": "Paris 12e - 75",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83732749.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Chef d'Equipe de Production H/F",
-    "company": "Michael Page",
-    "location": "Étampes - 91",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83756482.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Stage - Contrôleur de Gestion Opérations & Performance H/F",
-    "company": "Withings",
-    "location": "Issy-les-Moulineaux - 92",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83755276.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Sales Executive Europe H/F",
-    "company": "DNA Script",
-    "location": "Le Kremlin-Bicêtre - 94",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83754922.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Supply & Inventory Manager F - M H/F",
-    "company": "Cheerz",
-    "location": "Paris 8e - 75",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83754809.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "European Key Account Manager Meulan Fr 78250 H/F",
-    "company": "barry-callebaut",
-    "location": "Meulan-en-Yvelines - 78",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83750411.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Key Account Manager GMS et Cash & Carry H/F",
-    "company": "",
-    "location": "Île-de-France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/82665099.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Support Material Flow Manager - Guyancourt H/F",
-    "company": "ECM",
-    "location": "Guyancourt - 78",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/82660122.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Sales Senior H/F",
-    "company": "Keewe",
-    "location": "Paris 9e - 75",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/80555940.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Directeur de la Performance Opérationnelle Activité Aftermarket H/F",
-    "company": "Valeo",
-    "location": "Paris - 75",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83735808.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Key Account Manager - Travel Retail H/F",
-    "company": "OpenSourcing",
-    "location": "Boulogne-Billancourt - 92",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83734596.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Directeur Commercial CDI H/F",
-    "company": "Mirion Technologies France",
-    "location": "Montigny-le-Bretonneux - 78",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83732878.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Contrôleur de Gestion H/F",
-    "company": "Robert Half",
-    "location": "Paris - 75",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83732192.html",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Head Of sales",
-    "company": "Seedext",
-    "location": "Paris, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=d26503984276568a",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Technico-commercial Energie H/F",
-    "company": "OTC FLOW France",
-    "location": "Courbevoie, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4453082254",
-    "first_seen": "2026-08-13"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Stage JANVIER 2027 - Supply Chain |Demand Planner F/H",
-    "company": "Parfums Christian Dior",
-    "location": "Neuilly-sur-Seine, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4443923888",
-    "first_seen": "2026-09-04"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "PRICING ANALYST",
-    "company": "Parfums Christian Dior",
-    "location": "Neuilly-sur-Seine, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4425461841",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Pricer Analyst H/F - CDI",
-    "company": "ACR Group",
-    "location": "Gennevilliers, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4469789648",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Responsable de boutique (H/F) CDI 38h - Paris",
-    "company": "Jonak",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470089675",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Directeur Adjoint Cormeilles en Parisis (H/F/NB)",
-    "company": "KIABI",
-    "location": "Cormeilles-en-Parisis, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470084595",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Ingénieur commercial BtoB formation assurance",
-    "company": "Nouvelles Donnes",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4461711104",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Wholesale Merchandising Analyst",
-    "company": "CALVIN KLEIN",
-    "location": "Paris, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=f0f97416d151fa42",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Internship - 6 months - Valuation Risk Analyst Transverse F/M",
-    "company": "Natixis",
-    "location": "Charenton-le-Pont, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=4f751026d0170e15",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Business Analyst Intern, Strategic Supply Planning (All Genders)",
-    "company": "BestSecret Group",
-    "location": "Paris, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=b9806a4692ecc606",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Data Analyst Retail",
-    "title": "UX Designer",
-    "company": "JD.com",
-    "location": "Paris, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=f1019054ac6fe71c",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Data Analyst Intern H/F",
-    "company": "BNP Paribas",
-    "location": "Puteaux, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=2c7d8f08fc8c4d00",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Product Owner Data (H/F)",
-    "company": "ALTEN",
-    "location": "Boulogne-Billancourt, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=2826aa9cc0b77cdb",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Technico-commercial (Maisons individuelles) – industriel du bâtiment H/F",
-    "company": "RECTOR LESAGE",
-    "location": "Massy, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=ed39d39112a07d15",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Comptable expérimenté H/F",
-    "company": "GEODIS",
-    "location": "Gennevilliers, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=c44eeabed94efb96",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Business Developer Grands Comptes – Sponsoring & Événementiel B2B F/H",
-    "company": "NETMEDIA GROUP",
-    "location": "Boulogne-Billancourt, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=f6bab35bb1ffed2e",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "CDD - Coordinateur Business & Opérations Europe (H/F)",
-    "company": "Hermès",
-    "location": "Paris, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=edab8730f2c414bc",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Spécialiste Logistique France F/H",
-    "company": "Coloplast",
-    "location": "Fontenay-sous-Bois, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=1cfb7464b45092a3",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Senior Account Executive 1- Financial Services",
-    "company": "Equinix",
-    "location": "Paris, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=174a49d11f958c3f",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Account Executive MidMarket – Order to Cash H/F",
-    "company": "Quadient",
-    "location": "Rueil-Malmaison, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=97bcc1e514ab5f5f",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Demand Planner",
-    "title": "Stage - Assistant Demand Planner - Export - Janvier 2027 H/F",
-    "company": "Shiseido",
-    "location": "Neuilly-sur-Seine - 92",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/83744820.html",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Supply Coordinator CDI H/F",
-    "company": "Shiseido",
-    "location": "Neuilly-sur-Seine - 92",
-    "date_posted": "2026-09-25",
-    "url": "https://www.hellowork.com/fr-fr/emplois/81635756.html",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Contrôleur de Gestion Sénior pôle IDF Sud – H/F",
-    "company": "Ramsay Santé",
-    "location": "Massy, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4445969485",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Approvisionneur·euse H/F/N",
-    "company": "Bosch France",
-    "location": "Drancy, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4471893238",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Manager Contrôle de Gestion FP&A H/F - Siège - CDI",
-    "company": "Coca-Cola Europacific Partners",
-    "location": "Issy-les-Moulineaux, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4462831049",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Deputy Store Operations Manager - F/H - CDI - Galeries Lafayette",
-    "company": "Christian Dior Couture",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4453372168",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "WHOLESALE BUSINESS ANALYST (F/H/X)",
-    "company": "CELINE",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472217105",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Business Analyst Retail Real Estate (F/H)",
-    "company": "MF BRANDS GROUP",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472051149",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Senior Quantitative Analyst",
-    "company": "F. Schumacher & Co.",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4461905192",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "CDD - Coordinateur Business & Opérations Europe (H/F)",
-    "company": "Hermès",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470341082",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Business Analyst F/H",
-    "company": "MAGNITUDE",
-    "location": "Puteaux, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472082163",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Revenue Growth / Customer Category Manager",
-    "company": "Brown-Forman",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470394736",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Prévisionniste des ventes (Demand Analyst) H-F",
-    "company": "The Master Lock Company",
-    "location": "Courbevoie, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470307487",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Ingénieur Technico-Commercial Equipements – Rétine (VitRet Manager) 27-28-59-60-62-76-78-80-95",
-    "company": "Alcon",
-    "location": "Rueil-Malmaison, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4463329187",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Ingénieur Technico-commercial Itinérant Junior F/H",
-    "company": "KEYENCE CORPORATION",
-    "location": "Bois-Colombes, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470312299",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Vendeur - Concepteur de cuisines F/H",
-    "company": "SoCoo'c (Sté FOURNIER)",
-    "location": "Chambly, Hauts-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470141799",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Revenue Operations Manager : Sales Programs, Analysis, and Process. M/F",
-    "company": "EasyVista",
-    "location": "Noisy-le-Grand, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4454399824",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Senior Sales Engineer, Africa",
-    "company": "Eutelsat",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470148608",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Technical Sales Specialist",
-    "company": "Vertiv",
-    "location": "Rungis, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4453138608",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "CDI - Business Supply Chain CJ/OA/Shoes (H/F/X)",
-    "company": "CHANEL",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470388828",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Spécialiste Logistique France F/H",
-    "company": "Coloplast",
-    "location": "Fontenay-sous-Bois, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470304413",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Contrôleur.se de gestion industriel (H/F)",
-    "company": "Louis Vuitton",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4454065236",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Responsable du contrôle financier",
-    "company": "aMatch",
-    "location": "Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470325133",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "BALENCIAGA – Consolidation & Financial Controller (F/H)",
-    "company": "BALENCIAGA",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472008178",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Contrôleur.se Financier",
-    "company": "Pileje",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4461660233",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Data Analyst H/F",
-    "company": "Oventi",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472029555",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "CS27 BAC+5 - Pilote Data/Reporting des données logistiques stratégiques (H/F)",
-    "company": "Renault Group",
-    "location": "Puiseux-Pontoise, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470306071",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Senior Consultant – Consumer Goods, Retail & Luxury",
-    "company": "Sia",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470178190",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Pricing Manager/Analyst - Marketplace E-commerce - CDI",
-    "company": "KatchMe",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470305864",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Consultant Senior ou Manager Data Analyst & BI - secteur Financier, F/H",
-    "company": "EY",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4406425537",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Apprentissage : Network Design Flux véhicule France",
-    "company": "Stellantis",
-    "location": "Poissy, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4385391513",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Technico-commercial Itinérant Junior F/H",
-    "company": "KEYENCE CORPORATION",
-    "location": "Bois-Colombes, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470305505",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Ingenieur Technico Commercial Equipements - Cataracte (Phaco Manager) 21-25-39-58-67-68-70-71-89-90-",
-    "company": "Alcon",
-    "location": "Rueil-Malmaison, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4463335078",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Ingénieur des ventes - Normandie - Ile de France Ouest",
-    "company": "GRUNDFOS",
-    "location": "Lieusaint, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4443431129",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Ingénieur des ventes - Normandie - Ile de France Ouest",
-    "company": "GRUNDFOS",
-    "location": "Élancourt, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4443427137",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Apprentissage - Assistant(e) Coordinateur Pricing (H/F)",
-    "company": "Canon EMEA",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4444498610",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Conseiller de Vente H/F",
-    "company": "Printemps",
-    "location": "Vélizy-Villacoublay, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470700989",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Distribution Planner Accessoires (F/H)",
-    "company": "Louis Vuitton",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472214430",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Ingénieur(e) Supply Chain F/H",
-    "company": "CGI",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4426520349",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Responsable Supply Chain Atelier de production F/H",
-    "company": "Thales",
-    "location": "Élancourt, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4462848083",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Approvisionneur/euse",
-    "company": "The Master Lock Company",
-    "location": "Courbevoie, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470311668",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Directeur Contrôle de Gestion & Reporting Senior (H/F) – Mission",
-    "company": "Matches - Executive Search & Management de Transition",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4461184022",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Responsable de Magasin (77) F/H",
-    "company": "Achil",
-    "location": "Torcy, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470336518",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Data Analyst Senior H/F",
-    "company": "Oventi",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472043208",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Technico-commercial Itinérant Junior F/H",
-    "company": "KEYENCE CORPORATION",
-    "location": "Bois-Colombes, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470310299",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Conseillère/Conseiller en vente et en aménagement - Osny",
-    "company": "Leroy Merlin",
-    "location": "Osny, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470506002",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Lead Data Operations Analyst (F/H)",
-    "company": "NielsenIQ",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470317037",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Data analyst expert - pilotage commercial H/F",
-    "company": "Gan Assurances",
-    "location": "Nanterre, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4461682880",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Alternance - Client Engagement Analyst - Janvier 2027",
-    "company": "LVMH",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472206548",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Stage Data & IA, optimisation de la donnée produit et productivité H/F",
-    "company": "Manutan Group",
-    "location": "Gonesse, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4452383058",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Stage - Data analyst H/F - Rueil Malmaison (92)",
-    "company": "The HEINEKEN Company",
-    "location": "Rueil, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470327080",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Business Analyst  - stage de 6 mois - H/F",
-    "company": "Lagardère Travel Retail",
-    "location": "Levallois-Perret, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470140150",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Vendeur-Concepteur en aménagement intérieur F/H",
-    "company": "Mobalpa",
-    "location": "Noisy-le-Grand, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470150539",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Commercial terrain BtoB - Variable déplafonné - en CDI (H/F)",
-    "company": "SCT",
-    "location": "Beauvais, Hauts-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470386601",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Conseiller de Vente H/F",
-    "company": "Printemps",
-    "location": "Vélizy-Villacoublay, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470701963",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Chef de Secteur GMS Rayon Traditionnel F/H",
-    "company": "TEORHEM",
-    "location": "Pontoise, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4459684110",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Prévision des ventes",
-    "title": "Responsable Adjoint de Boutique H/F – Paris Gare de Lyon | 35h",
-    "company": "Rituals France (B Corp™)",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472057623",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Approvisionneur F/H/D",
-    "company": "Bosch France",
-    "location": "Drancy, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4471888343",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Approvisionneur F/H/D",
-    "company": "elm.leblanc Bosch",
-    "location": "Drancy, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4471883615",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "FP&A Manager",
-    "company": "Kraft Heinz",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4441056220",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Retail Merchandiser",
-    "company": "Prada",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470326332",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Order Manager H/F",
-    "company": "Arabelle Solutions",
-    "location": "La Courneuve, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470164897",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Stage - Contrôle de Gestion & Data / Performance (H/F)",
-    "company": "Withings",
-    "location": "Issy-les-Moulineaux, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4471897606",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Contrôleur de gestion retail",
-    "title": "Directrice, Directeur de Magasin",
-    "company": "Monoprix",
-    "location": "Vernon, Normandy, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470300885",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "indeed",
-    "search_keyword": "Prévision des ventes",
-    "title": "Approvisionneur·euse H/F/N",
-    "company": "Bosch",
-    "location": "Drancy, A8, FR",
-    "date_posted": "2026-09-25",
-    "url": "https://fr.indeed.com/viewjob?jk=2a3f7722dbdf40de",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Assortment Planning Manager",
-    "company": "Pandora",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470171770",
-    "first_seen": "2026-09-29"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "Stage SalesOps / Data Analyst Commercial H/F",
-    "company": "BATIBIG",
-    "location": "Clichy, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470098843",
-    "first_seen": "2026-09-29"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Data Analyst Retail",
-    "title": "EMEA OMNICHANNEL BUSINESS PROJECT MANAGER (F/H)",
-    "company": "Louis Vuitton",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4472042959",
-    "first_seen": "2026-09-29"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "Coordinateur Stock et Technique F/H",
-    "company": "Aroma-Zone",
-    "location": "Paris, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4463124741",
-    "first_seen": "2026-09-29"
-  },
-  {
-    "source": "linkedin",
-    "search_keyword": "Demand Planner",
-    "title": "CS27 - STAGE - Bac+5 - Contrôleur de gestion logistique après-vente - H/F",
-    "company": "Renault Group",
-    "location": "Guyancourt, Île-de-France, France",
-    "date_posted": "2026-09-25",
-    "url": "https://www.linkedin.com/jobs/view/4470335094",
-    "first_seen": "2026-09-29"
   },
   {
     "source": "linkedin",
@@ -16668,15 +16248,5 @@
     "date_posted": "",
     "url": "https://www.linkedin.com/jobs/view/4474161102",
     "first_seen": "2026-10-01"
-  },
-  {
-    "source": "hellowork",
-    "search_keyword": "Prévision des ventes",
-    "title": "Product Manager H/F",
-    "company": "De Graët Consulting",
-    "location": "Yvelines - 78",
-    "date_posted": "",
-    "url": "https://www.hellowork.com/fr-fr/emplois/84259073.html",
-    "first_seen": "2026-10-09"
   }
 ]
