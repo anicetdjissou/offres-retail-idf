@@ -1,4 +1,23 @@
 source,search_keyword,title,company,location,date_posted,url,first_seen
+linkedin,Data Analyst Retail,Business Analyst ADV & Sales Support,Perfetti Van Melle,"Paris, Île-de-France, France",2026-10-16,https://www.linkedin.com/jobs/view/4477361813,2026-10-16
+linkedin,Contrôleur de gestion retail,Sales Merchandiser H/F,Christian Louboutin,"Paris, Île-de-France, France",2026-10-16,https://www.linkedin.com/jobs/view/4480338756,2026-10-16
+linkedin,Data Analyst Retail,Chargée/Chargé d'études (F/H) - Fraude Monétique – analyste des données Fraude,CCS - CENTRE DE CONSEIL ET DE SERVICE,"Paris, Île-de-France, France",2026-10-16,https://www.linkedin.com/jobs/view/4479335847,2026-10-16
+linkedin,Prévision des ventes,Consultant Avant-Vente DELL F/H,Enosi RH,Greater Paris Metropolitan Region,2026-10-16,https://www.linkedin.com/jobs/view/4477370350,2026-10-16
+linkedin,Prévision des ventes,TECHNICO-COMMERCIAL SEDENTAIRE MECANIQUE HYDRAULIQUE H/F,RH Coaching Conseil,"Mennecy, Île-de-France, France",2026-10-16,https://www.linkedin.com/jobs/view/4479701604,2026-10-16
+linkedin,Contrôleur de gestion retail,Contrôleur de Gestion Industriel H/F,Comptalents,"Levallois-Perret, Île-de-France, France",2026-10-16,https://www.linkedin.com/jobs/view/4480346375,2026-10-16
+indeed,Data Analyst Retail,IT Business Analyst Retail Banking / Leasing,Groupe Talents Handicap,"Issy-les-Moulineaux, A8, France",2026-10-16,https://fr.indeed.com/viewjob?jk=733fc0143a96c333,2026-10-16
+indeed,Data Analyst Retail,Architecte Solution Salesforce Data Cloud,Groupe Talents Handicap,"Issy-les-Moulineaux, A8, France",2026-10-16,https://fr.indeed.com/viewjob?jk=4adec138a7b8b9bf,2026-10-16
+indeed,Prévision des ventes,Sales Developer Luxe et Retail,Groupe Talents Handicap,"La Défense, A8, France",2026-10-16,https://fr.indeed.com/viewjob?jk=6c7e10989867315a,2026-10-16
+indeed,Prévision des ventes,Sales Developer,Groupe Talents Handicap,"Issy-les-Moulineaux, A8, France",2026-10-16,https://fr.indeed.com/viewjob?jk=cd856a11c9e2ff63,2026-10-16
+indeed,Prévision des ventes,Sales Developer en alternance,Groupe Talents Handicap,"Issy-les-Moulineaux, A8, France",2026-10-16,https://fr.indeed.com/viewjob?jk=dab932a2b40a8af3,2026-10-16
+indeed,Prévision des ventes,Alternance Chargée/Chargé de support commercial,Groupe Talents Handicap,"Issy-les-Moulineaux, A8, France",2026-10-16,https://fr.indeed.com/viewjob?jk=cf3806d4456cef71,2026-10-16
+hellowork,Demand Planner,Responsable Prévision des Ventes Mgr - Siège - Mission H/F,Coca-Cola Europacific Partners,Issy-les-Moulineaux - 92,2026-10-16,https://www.hellowork.com/fr-fr/emplois/84492250.html,2026-10-16
+hellowork,Demand Planner,Demand Planner H/F,Robert Walters,Clichy - 92,2026-10-16,https://www.hellowork.com/fr-fr/emplois/84466708.html,2026-10-16
+hellowork,Prévision des ventes,Sales Manager - Agences Indépendantes H/F,Locala,Paris 9e - 75,2026-10-16,https://www.hellowork.com/fr-fr/emplois/83403678.html,2026-10-16
+hellowork,Prévision des ventes,Responsable Régional des Ventes - Food Service Idf H/F,Talents Commerciaux,Paris - 75,2026-10-16,https://www.hellowork.com/fr-fr/emplois/83400857.html,2026-10-16
+hellowork,Prévision des ventes,Chef de Rayon Fruits & Légumes H/F,Tang Frères,Herblay-sur-Seine - 95,2026-10-16,https://www.hellowork.com/fr-fr/emplois/83410615.html,2026-10-16
+hellowork,Prévision des ventes,Stage Chargé de Missions S&Op - l'Or Senseo Tassimo H/F,Jacobs Douwe Egberts,Paris 6e - 75,2026-10-16,https://www.hellowork.com/fr-fr/emplois/84469293.html,2026-10-16
+hellowork,Demand Planner,Responsable Administration des Expéditions H/F,Chanel,Vémars - 95,2026-10-16,https://www.hellowork.com/fr-fr/emplois/83411492.html,2026-10-16
 linkedin,Prévision des ventes,"Consultant Avant-Vente Achat, Paris - H/F",Fluxym,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4436700703,2026-10-07
 linkedin,Prévision des ventes,Sales Operations Analyst,Dextra Group,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4478846679,2026-10-15
 linkedin,Prévision des ventes,Contrôleur de Gestion (Suivi de la Commercialisation) H/F,HORIBA LAQUA EMEA,"Palaiseau, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4478860101,2026-10-15
@@ -25,6 +44,36 @@ hellowork,Prévision des ventes,Data Engineer Gcp - Supply Chain - Prévision de
 hellowork,Prévision des ventes,Analyste Revenue Management H/F,Barrière,Paris 8e - 75,2026-10-15,https://www.hellowork.com/fr-fr/emplois/84430894.html,2026-10-15
 hellowork,Demand Planner,Responsable de Rayon Fruits et Légumes H/F,Monoprix,Paris 6e - 75,2026-10-15,https://www.hellowork.com/fr-fr/emplois/84424851.html,2026-10-15
 hellowork,Contrôleur de gestion retail,Contrôleur de Gestion Retail en CDI à Paris H/F,"LTD - Métiers du Tertiaire Technique, Fonctions Supports, Mode & Luxe",Paris - 75,2026-10-15,https://www.hellowork.com/fr-fr/emplois/84433465.html,2026-10-15
+linkedin,Demand Planner,Demand Planning and S&OP Planning Manager,Imerys,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4459875199,2026-10-12
+linkedin,Prévision des ventes,Conseiller technique de vente Applied H/F,Carrier,"Massy, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4476854663,2026-10-10
+linkedin,Prévision des ventes,Revenue Operations Manager,Quandela,"Massy, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4474909006,2026-10-06
+linkedin,Prévision des ventes,Sales Business Operations Executive France,Apple,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4474960271,2026-10-07
+linkedin,Data Analyst Retail,Business & Shopper Insights Specialist - CDD 11 MOIS (H/F),Red Bull,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4471123033,2026-10-16
+linkedin,Data Analyst Retail,Analyste Supply Chain - Alternance F/H,Guerbet,"Villepinte, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4469164551,2026-10-16
+linkedin,Contrôleur de gestion retail,Global Supply Chain Performance Controller - H/F,Lacoste,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4479864000,2026-10-16
+linkedin,Data Analyst Retail,Data Scientist (F/H),Louis Vuitton,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4443518447,2026-10-16
+linkedin,Data Analyst Retail,STAGE - Assistant Data Manager (H/F),Hermès,"Pantin, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4461308318,2026-10-16
+linkedin,Data Analyst Retail,CRO Analyst Junior,Tediber,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4479157499,2026-10-16
+linkedin,Data Analyst Retail,"CDI - Business Analyst Senior RGM | L'Or, Tassimo, Senseo",JDE Peet's,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4469487352,2026-10-16
+linkedin,Prévision des ventes,Ingénieur.e Avant-Vente Senoir Audiovisuel,Exaprobe Aciernet USA,"Le Plessis-Robinson, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4480174119,2026-10-16
+linkedin,Prévision des ventes,Architecte Avant-vente Microsoft D365 Business Central,Prodware,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4443913986,2026-10-16
+linkedin,Prévision des ventes,Contrôleur de Gestion (Suivi de la Commercialisation) H/F,HORIBA,"Palaiseau, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4479864151,2026-10-16
+linkedin,Prévision des ventes,Conseillère/Conseiller en vente et en aménagement,Leroy Merlin,"Rosny-sous-Bois, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4477319744,2026-10-16
+linkedin,Prévision des ventes,Conseiller/e Commercial/e Véhicules Neufs F/H,ALTAÏR,"Viry-Châtillon, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4479158160,2026-10-16
+linkedin,Contrôleur de gestion retail,Commercial Efficiency Manager - France / BeLux,Brown-Forman,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4469616095,2026-10-16
+linkedin,Prévision des ventes,Responsable Commercial Instrumentation Radiologique et Nucléaire F/H,Bertin Technologies,"Montigny-le-Bretonneux, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4478860626,2026-10-16
+linkedin,Demand Planner,Approvisionneur & Prévisionniste  (H/F),DIADÈME Group,Greater Paris Metropolitan Region,2026-10-15,https://www.linkedin.com/jobs/view/4479875558,2026-10-16
+linkedin,Demand Planner,CDI - Responsable Off-Price (F/H),GIVENCHY,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4480188080,2026-10-16
+linkedin,Contrôleur de gestion retail,CDD - Europe Planning Project Manager,Cartier,"Paris, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4442219055,2026-10-16
+linkedin,Contrôleur de gestion retail,Manager de Rayon PGC (F/H) - Hypermarché,Carrefour,"Chambourcy, Île-de-France, France",2026-10-15,https://www.linkedin.com/jobs/view/4477080299,2026-10-16
+indeed,Data Analyst Retail,Stage de fin d'études - Data Analyst / Scientist H/F - Paris,AVISIA,"Paris, A8, France",2026-10-15,https://fr.indeed.com/viewjob?jk=e0b4d0a0f96e703a,2026-10-16
+indeed,Demand Planner,Coordinateur Commercial Eame / Demand Planner,Chevron,"Rueil-Malmaison, A8, France",2026-10-15,https://fr.indeed.com/viewjob?jk=608f3d2b70b478c0,2026-10-16
+indeed,Prévision des ventes,"Data Analyst / Analytics Engineer – Automatisation, Power BI & Forecasting (H/F)",CA Consulting,"Saint-Ouen, A8, France",2026-10-15,https://fr.indeed.com/viewjob?jk=f9f75e2710a6ff74,2026-10-16
+indeed,Prévision des ventes,Analyste performance Marché et Prévisions (H/F),Laboratoire NHCO Nutrition,"Bois-Colombes, A8, France",2026-10-15,https://fr.indeed.com/viewjob?jk=429e6f7261913d81,2026-10-16
+indeed,Prévision des ventes,Stage - Siège social - Group Operations Control H/F,Air Liquide,"Paris, A8, France",2026-10-15,https://fr.indeed.com/viewjob?jk=9d48f099e0907f3d,2026-10-16
+indeed,Prévision des ventes,Pilotage du Développement BtoB Europe H/F,CNP ASSURANCES,"Issy-les-Moulineaux, A8, France",2026-10-15,https://fr.indeed.com/viewjob?jk=42d7e0ec8cc3e5b2,2026-10-16
+indeed,Prévision des ventes,Clinic Partnerships & Product Education Manager – France (H/F),Reliable Medicare France,"Paris 8e, A8, France",2026-10-15,https://fr.indeed.com/viewjob?jk=1239d084f55e936f,2026-10-16
+indeed,Prévision des ventes,Stage - Data Scientist - H/F/X - Janvier 2027,Veepee,"Saint-Denis, A8, France",2026-10-15,https://fr.indeed.com/viewjob?jk=c7ab533af95223ea,2026-10-16
 hellowork,Data Analyst Retail,Data Analyst - Business Analyst H/F,Acteur du retail alimentaire,France,2026-10-14,https://www.hellowork.com/fr-fr/emplois/84384888.html,2026-10-13
 hellowork,Demand Planner,Assistant Prévision des Ventes - Snea 2026 H/F,Apecita,Val-de-Marne - 94,2026-10-14,https://www.hellowork.com/fr-fr/emplois/84384598.html,2026-10-13
 hellowork,Prévision des ventes,Analytics Engineer Senior - Retail H/F,Avelsen,Paris - 75,2026-10-14,https://www.hellowork.com/fr-fr/emplois/84384881.html,2026-10-13
@@ -47,8 +96,7 @@ hellowork,Prévision des ventes,Commercial - Logistique Petits Colis H/F,GOFO Fr
 hellowork,Prévision des ventes,Planificateur H/F,Atexis,Torcy - 77,2026-10-14,https://www.hellowork.com/fr-fr/emplois/84387696.html,2026-10-14
 hellowork,Demand Planner,Approvisionneur CDI 35H H/F,Histoire d'Or,Paris - 75,2026-10-14,https://www.hellowork.com/fr-fr/emplois/84394337.html,2026-10-14
 hellowork,Prévision des ventes,Responsable de Production Électronique H/F,DLSI France,Villebon-sur-Yvette - 91,2026-10-14,https://www.hellowork.com/fr-fr/emplois/84382573.html,2026-10-13
-linkedin,Demand Planner,Analyste Senior Revenue Management F/H,JCDecaux,"Neuilly-sur-Seine, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4475471909,2026-10-08
-linkedin,Demand Planner,Demand Planning and S&OP Planning Manager,Imerys,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4459875199,2026-10-12
+linkedin,Prévision des ventes,Analyste Senior Revenue Management F/H,JCDecaux,"Neuilly-sur-Seine, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4475471909,2026-10-08
 linkedin,Demand Planner,Gestionnaire stocks (H/F),CRMA Aero repair,"Élancourt, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4475783637,2026-10-08
 hellowork,Data Analyst Retail,CDI - Consultant Data Analyst - Luxe - Retail - Paris H/F,Cenova,Paris - 75,2026-10-14,https://www.hellowork.com/fr-fr/emplois/84419747.html,2026-10-14
 linkedin,Demand Planner,Demand Planner (F/H),Carrefour,"Évry, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4476650620,2026-10-15
@@ -64,7 +112,7 @@ linkedin,Prévision des ventes,Technico-Commercial BTP Rem Déplafonnée (H/F),U
 linkedin,Demand Planner,Responsable Supply Planning & Demand Planning - Adjoint Supply Chain (H/F),Lynxeo,"Draveil, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4456445530,2026-10-15
 linkedin,Demand Planner,COORDINATEUR SUPPLY CHAIN - APPROVISIONNEMENT SITE EXPLOITANT PHARMA (F/H),EG LABO - Groupe STADA,"Issy-les-Moulineaux, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4470640021,2026-10-15
 linkedin,Demand Planner,Supply Risk Planner (f/m/x),HelloFresh,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4479716737,2026-10-15
-linkedin,Demand Planner,Data analyst & pricing manager F/H,Aigle,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4479297548,2026-10-15
+linkedin,Data Analyst Retail,Data analyst & pricing manager F/H,Aigle,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4479297548,2026-10-15
 linkedin,Demand Planner,"Responsable des flux de ventes-achats, et pilotage de la satisfaction-client",La Poste Groupe,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4479562138,2026-10-15
 linkedin,Demand Planner,Chargé d'ADV et Planification de production en intérim (H/F),Talents ADV-Supply,"Bois-Colombes, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4478422968,2026-10-15
 linkedin,Demand Planner,Coordonnateur logistique et approvisionnement aéronautique (Le Bourget),Bombardier,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4461744123,2026-10-15
@@ -93,6 +141,14 @@ indeed,Prévision des ventes,Manager Accès au Marché & Stratégie hôpital,Chi
 indeed,Prévision des ventes,Responsable Exploitation H/F,Groupe FAUCHON,"Yerres, A8, France",2026-10-14,https://fr.indeed.com/viewjob?jk=fba5d5a58f7c4a6a,2026-10-15
 indeed,Prévision des ventes,Analyste Revenue Management,Barrière,"Paris, A8, France",2026-10-14,https://fr.indeed.com/viewjob?jk=76b17800798c97db,2026-10-15
 indeed,Demand Planner,Supply Risk Planner (f/m/x),HelloFresh,"Paris, A8, France",2026-10-14,https://fr.indeed.com/viewjob?jk=ccc97b07dbc6bbbe,2026-10-15
+linkedin,Contrôleur de gestion retail,MOD - Chef de secteur H/F (FL MM),Mon Marché,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4477691969,2026-10-12
+linkedin,Data Analyst Retail,Senior Business Analyst,Alma,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4466075676,2026-10-03
+linkedin,Data Analyst Retail,Business Analyst - H/F,GLOBE GROUPE SHOPPER HOUSE,"Neuilly-sur-Seine, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4476660414,2026-10-16
+linkedin,Data Analyst Retail,Business Analyst,Alma,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4479563840,2026-10-16
+linkedin,Data Analyst Retail,Alternance - Data Analyst Assistant H/F - Septembre 2026,Shiseido,"Neuilly-sur-Seine, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4383547484,2026-10-16
+linkedin,Data Analyst Retail,Business Analyst Data Product [Luxe-Retail] (H/F),Adone Conseil,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4479298502,2026-10-16
+linkedin,Data Analyst Retail,CDD - Data Analyst F/H,La Poste Groupe,"Paris, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4479557449,2026-10-16
+linkedin,Data Analyst Retail,Contrôleur de gestion - Référent EPM / BI  F/H,JCDecaux,"Plaisir, Île-de-France, France",2026-10-14,https://www.linkedin.com/jobs/view/4474966158,2026-10-16
 linkedin,Data Analyst Retail,Lead Data Analyste H/F,Ecomaison,"Paris, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4456301500,2026-09-24
 linkedin,Prévision des ventes,Consultant Avant-Vente (H/F),MyUnisoft,"Montigny-le-Bretonneux, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4445203443,2026-09-01
 linkedin,Data Analyst Retail,CDI - Tracking & E-commerce Analytics Specialist F/H,JJA SA,"Gonesse, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4477995355,2026-10-13
@@ -161,6 +217,14 @@ linkedin,Contrôleur de gestion retail,CDI - Retail Operations Manager H/F - MON
 linkedin,Contrôleur de gestion retail,Category Manager Cuisine F/H - Alternance,Carrefour,"Massy, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4476499236,2026-10-15
 linkedin,Contrôleur de gestion retail,Responsable Administratif et Financier H/F,Intermarché,"Garancières-en-Beauce, Centre-Val de Loire, France",2026-10-13,https://www.linkedin.com/jobs/view/4477991110,2026-10-15
 indeed,Data Analyst Retail,Stage - Sales Analyst & Support - Underwear - H/F/X - Janvier 2027,Veepee,"Saint-Denis, A8, France",2026-10-13,https://fr.indeed.com/viewjob?jk=ef6dcd7cb260df0f,2026-10-15
+linkedin,Data Analyst Retail,Data Analyst confirmé (F/H),Agorastore,"Montreuil, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4465552337,2026-09-16
+linkedin,Data Analyst Retail,APPRENTICESHIP - Search Acquisition & Omnichannel Performance,Christian Louboutin,"Paris, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4479045274,2026-10-16
+linkedin,Data Analyst Retail,Analytics Engineer - CDI,10%,"Paris, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4479016896,2026-10-16
+linkedin,Data Analyst Retail,CDI - Coordinateur.trice Marketplace (H/F),Zadig&Voltaire,"Paris, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4476443315,2026-10-16
+linkedin,Data Analyst Retail,Senior - Marketing Data Scientist Consultant,Sia,"Paris, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4478768470,2026-10-16
+linkedin,Data Analyst Retail,"Apprenticeship – Sustainability Data Assistant, Footwear (M/F)",Lacoste,"Paris, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4479038455,2026-10-16
+linkedin,Data Analyst Retail,Consultant – Data Analyst,Sia,"Paris, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4479059152,2026-10-16
+linkedin,Contrôleur de gestion retail,AREA MANAGER H/F - CDI,Jonak,"Paris, Île-de-France, France",2026-10-13,https://www.linkedin.com/jobs/view/4478780802,2026-10-16
 linkedin,Contrôleur de gestion retail,Responsable des Opérations Retail - Western Europe,Le Creuset,"Paris, Île-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4476820966,2026-10-10
 linkedin,Contrôleur de gestion retail,SENIOR RETAIL MERCHANDISER EUROPE,Christian Dior Couture,"Paris, Île-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4390388812,2026-08-26
 linkedin,Demand Planner,TECHNICIEN SUPPLY CHAIN,Brioche PASQUIER,"Canton of Le Châtelet-en-Brie, Île-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4465568844,2026-09-16
@@ -232,6 +296,12 @@ linkedin,Prévision des ventes,Ingénieur Commercial Itinérant Junior F/H,KEYEN
 linkedin,Prévision des ventes,Technico-commercial(e) menuiserie - Marché des particuliers - CDI - Beauchamp (95) F/H - BEYNAT FERMETURES 95,BEYNAT FERMETURES 95,"Beauchamp, Île-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4478156102,2026-10-15
 linkedin,Contrôleur de gestion retail,DIRECTEUR/DIRECTRICE RETAIL FRANCE & MONACO (F/H) - PARIS,Bvlgari,"Paris, Île-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4478540758,2026-10-15
 linkedin,Contrôleur de gestion retail,Finance Business Partner (Restauration Entreprise) F/H,COMPASS GROUP FRANCE,"Malakoff, Île-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4478548125,2026-10-15
+linkedin,Data Analyst Retail,CDI - BUSINESS ANALYST DATA SALES - H/F,Havas Business Science,"Île-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4477904331,2026-10-16
+linkedin,Contrôleur de gestion retail,Manager de rayons Frais F/H,Auchan Retail,"Le Chesnay-Rocquencourt, Île-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4422767250,2026-10-16
+linkedin,Contrôleur de gestion retail,Directeur de Magasin - GMS H/F,Shades,"Compiègne, Hauts-de-France, France",2026-10-12,https://www.linkedin.com/jobs/view/4477917375,2026-10-16
+indeed,Data Analyst Retail,CDD - Chargé d'études Qualité Sephora Europe (F/H/X),Sephora,"Neuilly-sur-Seine, A8, France",2026-10-12,https://fr.indeed.com/viewjob?jk=b7e1e1d11c798827,2026-10-16
+indeed,Data Analyst Retail,Cost Clarity Senior Analyst,CHEP ESPANA SA,"Clichy, A8, France",2026-10-12,https://fr.indeed.com/viewjob?jk=b532255195d7977c,2026-10-16
+indeed,Prévision des ventes,Superviseur service clients et ADV,Eaton,"Coignières, A8, France",2026-10-12,https://fr.indeed.com/viewjob?jk=926dccb8ba607a37,2026-10-16
 indeed,Prévision des ventes,Category Manager Oxybul H/F,Hellowork,"Levallois-Perret, A8, France",2026-10-11,https://fr.indeed.com/viewjob?jk=97dffce4e7fab34e,2026-10-11
 hellowork,Prévision des ventes,Sales Analyst & Support - Kids - CDD H/F,veepee_france,Saint-Denis - 93,2026-10-11,https://www.hellowork.com/fr-fr/emplois/83255179.html,2026-10-11
 hellowork,Prévision des ventes,Stage - Assistant Business Analyst Demand Planning - Parfums Beauté Europe - Janvier 2027 H/F,Chanel,Paris - 75,2026-10-11,https://www.hellowork.com/fr-fr/emplois/84319731.html,2026-10-11
@@ -298,7 +368,6 @@ linkedin,Data Analyst Retail,Data Analyst Tableau (H/F),Sibylone,"Paris, Île-de
 linkedin,Demand Planner,Senior Solution Consultant,Anaplan,"Paris, Île-de-France, France",2026-10-10,https://www.linkedin.com/jobs/view/4440979765,2026-10-12
 linkedin,Contrôleur de gestion retail,FP&A Manager,Vestiaire Collective,"Paris, Île-de-France, France",2026-10-10,https://www.linkedin.com/jobs/view/4468053879,2026-10-12
 linkedin,Demand Planner,Planificateur de production H/F,ARESIA,"Valenton, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4474263345,2026-10-05
-linkedin,Data Analyst Retail,Data Analyst confirmé (F/H),Agorastore,"Montreuil, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4465552337,2026-09-16
 linkedin,Data Analyst Retail,Marketing Data Scientist Consultant,Sia,"Paris, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4477644689,2026-10-09
 linkedin,Prévision des ventes,Inside Sales Support Data Center Solutions | Paris/France (all genders),BACHMANN Group,"Paris, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4474898643,2026-10-09
 linkedin,Prévision des ventes,Représentant technico-commercial,Verisure,Greater Paris Metropolitan Region,2026-10-09,https://www.linkedin.com/jobs/view/4471741683,2026-10-09
@@ -337,7 +406,6 @@ linkedin,Data Analyst Retail,Senior Data Analyst,Skello,"Paris, Île-de-France, 
 linkedin,Contrôleur de gestion retail,CDI – Contrôleur/se de Gestion Commercial (F/H),"GROUPE BON MARCHÉ : Le Bon Marché Rive Gauche, La Grande Epicerie de Paris et la Samaritaine","Paris, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4476299550,2026-10-10
 linkedin,Data Analyst Retail,Analytic Consultant,NielsenIQ,"Bezons, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4476808418,2026-10-10
 linkedin,Data Analyst Retail,CDD - Data Analyst F/H,La Poste Groupe,"Paris, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4477836659,2026-10-10
-linkedin,Prévision des ventes,Conseiller technique de vente Applied H/F,Carrier,"Massy, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4476854663,2026-10-10
 linkedin,Prévision des ventes,Ingénieur Commercial Conseil Fiscalité Locale H/F,Ayming,"Levallois-Perret, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4363979337,2026-10-10
 linkedin,Prévision des ventes,Technico-commercial H/F,Unéo,"Montrouge, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4476854519,2026-10-10
 linkedin,Prévision des ventes,Technico-commercial Itinérant Junior F/H,KEYENCE CORPORATION,"Bois-Colombes, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4476822101,2026-10-10
@@ -391,7 +459,6 @@ linkedin,Demand Planner,CDD - Coordinateur gestion H/F,Place des Tendances,"Pant
 linkedin,Demand Planner,Acheteur (H/F),Inmac wstore,"Roissy-en-France, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4475207472,2026-10-12
 linkedin,Contrôleur de gestion retail,Assistant.e Merchandising et Marketing Opérationnel Retail,ARMAND THIERY,"Levallois-Perret, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4477695754,2026-10-12
 linkedin,Contrôleur de gestion retail,Footwear Merchandising Manager – International Sports & Lifestyle Brand,MODE SEARCH Ltd.,"Paris, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4476293958,2026-10-12
-linkedin,Contrôleur de gestion retail,MOD - Chef de secteur H/F (FL MM),Mon Marché,"Paris, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4477691969,2026-10-12
 linkedin,Contrôleur de gestion retail,"Coordinateur Coopération Commerciale, CDI, H/F",PepsiCo,"Colombes, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4466294375,2026-10-12
 linkedin,Contrôleur de gestion retail,Directeur(trice) de Magasin,Lunettes Pour Tous,"Créteil, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4477659854,2026-10-12
 linkedin,Contrôleur de gestion retail,District Manager,Aroma-Zone,"Paris, Île-de-France, France",2026-10-09,https://www.linkedin.com/jobs/view/4440623744,2026-10-12
@@ -555,7 +622,6 @@ linkedin,Demand Planner,Consultant - Analytics Engineer,Leonar,"Paris, Île-de-F
 linkedin,Data Analyst Retail,Oliver Wyman - Analyst/Senior Analyst- Data & IA - Paris,Oliver Wyman,"Paris, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4385386145,2026-10-06
 linkedin,Data Analyst Retail,Senior - Marketing Data Scientist Consultant,Sia,"Paris, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4476148734,2026-10-06
 linkedin,Data Analyst Retail,Stage - Assistant Retail Performance & Analysis - F/H - Janvier 2027,RIMOWA,"Paris, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4464798958,2026-10-06
-linkedin,Prévision des ventes,Revenue Operations Manager,Quandela,"Massy, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4474909006,2026-10-06
 linkedin,Demand Planner,Business Planning Specialist F/H,Bridgestone EMEA,"Rungis, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4467207142,2026-10-06
 linkedin,Prévision des ventes,Ingénieur.e Avant-Vente Services (H/F),Econocom France,"Le Plessis-Robinson, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4476157071,2026-10-06
 linkedin,Prévision des ventes,Consultant/Consultante Avant Vente hyperconvegence,SPIE ICS,"Malakoff, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4476155682,2026-10-06
@@ -600,7 +666,6 @@ linkedin,Prévision des ventes,Ingénieur Commercial (F/H),Evernex,"Compans, Îl
 linkedin,Contrôleur de gestion retail,d'un/une Assistant.e Commercial.e et Analyse,HADDAD BRANDS EUROPE,"Seine-St.-Denis, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4476321619,2026-10-07
 linkedin,Prévision des ventes,Responsable développement des ventes GMS (H/F),Essity,"Paris, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4465519854,2026-10-07
 linkedin,Prévision des ventes,Sales Director (f/m/d),Thinkproject,"Paris, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4445527803,2026-10-07
-linkedin,Demand Planner,Sales Business Operations Executive France,Apple,"Paris, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4474960271,2026-10-07
 linkedin,Prévision des ventes,Presales Expert Consultant (f/m/d),Thinkproject,"Paris, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4474063632,2026-10-07
 linkedin,Prévision des ventes,Conseiller de vente Non-alimentaire F/H en Bijouterie,Auchan Retail,"Vélizy-Villacoublay, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4474080014,2026-10-07
 linkedin,Prévision des ventes,INGÉNIEUR COMMERCIAL H/F,EXPERT & MANAGER,"Bois-Colombes, Île-de-France, France",2026-10-06,https://www.linkedin.com/jobs/view/4474074676,2026-10-07
@@ -822,7 +887,6 @@ linkedin,Data Analyst Retail,Alternance - Business Analytics (H/F),Richemont,"Pa
 linkedin,Data Analyst Retail,CDI - Data Manager et BI (H/F),Hermès,"Pantin, Île-de-France, France",2026-10-02,https://www.linkedin.com/jobs/view/4473359558,2026-10-03
 linkedin,Data Analyst Retail,Business Performance Lead  Achats France / Europe - H/F,L’univers NOZ,"Chartres, Centre-Val de Loire, France",2026-10-02,https://www.linkedin.com/jobs/view/4419801853,2026-10-03
 linkedin,Demand Planner,"NIQ Early Career Program: Alternance – Consultant Analytique programmes collaboratifs (disponibilité linéaire OSA, datasharing) F/H",NielsenIQ,"Bezons, Île-de-France, France",2026-10-02,https://www.linkedin.com/jobs/view/4472896177,2026-10-03
-linkedin,Data Analyst Retail,Senior Business Analyst,Alma,"Paris, Île-de-France, France",2026-10-02,https://www.linkedin.com/jobs/view/4466075676,2026-10-03
 linkedin,Data Analyst Retail,Consultant(e) PIM Salsify (H/F),DGTL Performance,"St.-Ouen, Île-de-France, France",2026-10-02,https://www.linkedin.com/jobs/view/4474789436,2026-10-03
 linkedin,Data Analyst Retail,Développeur Produit en Business Intelligence pour la Portée du Marché,Hilti Group,"Boulogne-Billancourt, Île-de-France, France",2026-10-02,https://www.linkedin.com/jobs/view/4441049136,2026-10-03
 linkedin,Data Analyst Retail,Marketing Data Scientist Consultant,Sia,"Paris, Île-de-France, France",2026-10-02,https://www.linkedin.com/jobs/view/4474779418,2026-10-03
@@ -881,97 +945,6 @@ linkedin,Demand Planner,Gestionnaire approvisionnements et achats (F/H),Ville de
 linkedin,Contrôleur de gestion retail,HR Controlling Manager - LVMH Fashion Group,LVMH,"Paris, Île-de-France, France",2026-10-02,https://www.linkedin.com/jobs/view/4473338921,2026-10-05
 linkedin,Contrôleur de gestion retail,Collection Merchandiser Maroquinerie (F/H),Lacoste,"Paris, Île-de-France, France",2026-10-02,https://www.linkedin.com/jobs/view/4437184914,2026-10-05
 hellowork,Prévision des ventes,Démonstratrice Paris H/F,Les Nouveaux Héritiers,Paris 9e - 75,2026-10-02,https://www.hellowork.com/fr-fr/emplois/84002512.html,2026-10-05
-indeed,Prévision des ventes,Consultant(e) Confirme(e) Data / IA H/F,MC2I,"Paris, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=56282b9339f709d9,2026-10-01
-indeed,Prévision des ventes,Superviseur des Opérations Logistiques et transport de nuit F/H,Proximy,"Stains, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=4159fc8377ceb7ab,2026-10-01
-indeed,Prévision des ventes,Directeur commercial & développement (F/H),,"Noisy-le-Grand, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=b55292cca932662a,2026-10-01
-indeed,Contrôleur de gestion retail,contrôleur·se de gestion retail f/h,ba&sh,"Paris, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=9cff932388f780af,2026-10-01
-hellowork,Data Analyst Retail,Consultant Senior - Data Analyst - Luxe & Retail H/F,Square Management,Neuilly-sur-Seine - 92,2026-10-01,https://www.hellowork.com/fr-fr/emplois/80876306.html,2026-10-01
-hellowork,Demand Planner,Prévisionniste des Ventes - Demand Planner H/F,EXTEND CONSULTING,Paris - 75,2026-10-01,https://www.hellowork.com/fr-fr/emplois/83964780.html,2026-10-01
-hellowork,Demand Planner,Balenciaga - Demand Planning Intern - September 2026 H/F,Kering,Paris - 75,2026-10-01,https://www.hellowork.com/fr-fr/emplois/82714643.html,2026-10-01
-hellowork,Demand Planner,Demand Planner Anglais Courant H/F,Michael Page,Clichy - 92,2026-10-01,https://www.hellowork.com/fr-fr/emplois/83960814.html,2026-10-01
-hellowork,Demand Planner,Stage - Assistant Prévision des Ventes Internationales et Data Analyst H/F,Hermès,Paris - 75,2026-10-01,https://www.hellowork.com/fr-fr/emplois/83941416.html,2026-10-01
-hellowork,Prévision des ventes,Technico-Commercial Confirmé - Équipements de Laboratoire H/F,Talents Commerciaux,Collégien - 77,2026-10-01,https://www.hellowork.com/fr-fr/emplois/78621778.html,2026-10-01
-hellowork,Prévision des ventes,Coordinateur Service Client - Vivier H/F,Mondelez International,Clamart - 92,2026-10-01,https://www.hellowork.com/fr-fr/emplois/75052692.html,2026-10-01
-hellowork,Prévision des ventes,Compte Clé Gd H/F,,Île-de-France,2026-10-01,https://www.hellowork.com/fr-fr/emplois/80879451.html,2026-10-01
-hellowork,Prévision des ventes,CDD Master Planner S&S H/F,Tereos,Moussy-le-Vieux - 77,2026-10-01,https://www.hellowork.com/fr-fr/emplois/82852572.html,2026-10-01
-hellowork,Prévision des ventes,Ic Modernisation Idf H/F,HC Resources,Vélizy-Villacoublay - 78,2026-10-01,https://www.hellowork.com/fr-fr/emplois/82884962.html,2026-10-01
-hellowork,Prévision des ventes,Chargé de Sous-Traitance H/F,Laboratoire SVR,Le Plessis-Pâté - 91,2026-10-01,https://www.hellowork.com/fr-fr/emplois/81927777.html,2026-10-01
-hellowork,Prévision des ventes,Supply & Inventory Manager F - M H/F,Cheerz,Paris - 75,2026-10-01,https://www.hellowork.com/fr-fr/emplois/81906492.html,2026-10-01
-hellowork,Prévision des ventes,Directeur de Magasin H/F,Tang Frères,Herblay-sur-Seine - 95,2026-10-01,https://www.hellowork.com/fr-fr/emplois/79653928.html,2026-10-01
-hellowork,Prévision des ventes,Export Sales Manager H/F,Thales,Gennevilliers - 92,2026-10-01,https://www.hellowork.com/fr-fr/emplois/81953431.html,2026-10-01
-hellowork,Prévision des ventes,Key Account Executive - Segment Law H/F,Doctrine,Paris - 75,2026-10-01,https://www.hellowork.com/fr-fr/emplois/80878098.html,2026-10-01
-hellowork,Prévision des ventes,Directeur de Magasin Adjoint H/F,Tang Frères,Herblay-sur-Seine - 95,2026-10-01,https://www.hellowork.com/fr-fr/emplois/79654106.html,2026-10-01
-hellowork,Prévision des ventes,Responsable de Boutique en Boulangerie Pâtisserie H/F,Maison Kayser,Paris - 75,2026-10-01,https://www.hellowork.com/fr-fr/emplois/70861094.html,2026-10-01
-hellowork,Prévision des ventes,Responsable de Boutique en Boulangerie Pâtisserie H/F,Maison Kayser,Paris - 75,2026-10-01,https://www.hellowork.com/fr-fr/emplois/70849787.html,2026-10-01
-hellowork,Prévision des ventes,Directeur Adjoint - Directrice Adjointe de Magasin Mobilité 91 H/F,Naturéo,Viry-Châtillon - 91,2026-10-01,https://www.hellowork.com/fr-fr/emplois/83952351.html,2026-10-01
-hellowork,Prévision des ventes,Assistant Approvisionnement Employé en Approvisionnement H/F,Green Family,Rueil-Malmaison - 92,2026-10-01,https://www.hellowork.com/fr-fr/emplois/83944795.html,2026-10-01
-hellowork,Contrôleur de gestion retail,Contrôleur Financier Réseau H/F,Intersport,Longjumeau - 91,2026-10-01,https://www.hellowork.com/fr-fr/emplois/83939387.html,2026-10-01
-hellowork,Demand Planner,Alternance - Assistant Supply Chain H/F,Hermes Sellier,Pantin - 93,2026-10-01,https://www.hellowork.com/fr-fr/emplois/81910560.html,2026-10-01
-hellowork,Contrôleur de gestion retail,Contrôleur de Gestion Business H/F,Showroomprivé,Saint-Denis - 93,2026-10-01,https://www.hellowork.com/fr-fr/emplois/82848276.html,2026-10-01
-linkedin,Prévision des ventes,Ingénieur·e commercial·e en décarbonation des procédés industriels (H/F),Ynergie,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4468516989,2026-09-22
-linkedin,Demand Planner,Approvisionneur/Ordonnanceur F/H,JCDecaux,"Plaisir, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4471063639,2026-09-27
-linkedin,Prévision des ventes,Concepteur Vendeur Cuisine F/H,Darty,"Boulogne-Billancourt, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474145711,2026-10-01
-linkedin,Prévision des ventes,Conseiller Voyage H/F,PONANT,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472535482,2026-10-01
-linkedin,Prévision des ventes,Responsable ventes régionales,DEF,"Massy, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474137225,2026-10-01
-linkedin,Prévision des ventes,Assistant commercial/Assistante commerciale,ERTEM International,"Montreuil, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472529818,2026-10-01
-linkedin,Demand Planner,Supply Planner (H/F/X),Bel,"Suresnes, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472669837,2026-10-01
-linkedin,Demand Planner,Gestionnaire Approvisionnement H/F,ARMAND THIERY,"Levallois-Perret, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474142154,2026-10-01
-linkedin,Demand Planner,Stage - Assistant(e) Supply & Distribution Planner (F/H),GIVENCHY,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4465300384,2026-10-01
-linkedin,Demand Planner,Stage Assistant(e) Supply Chain IBP,Kellanova,"Boulogne-Billancourt, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4463089066,2026-10-01
-linkedin,Demand Planner,Responsable Supply Chain Datacenter,Felps Group,"Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474136856,2026-10-01
-linkedin,Contrôleur de gestion retail,Responsable Controle de Gestion Groupe,Edmond de Rothschild Heritage,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474120621,2026-10-01
-linkedin,Contrôleur de gestion retail,Senior analyst commercial finance (H/F/X),Mondelēz International,"Boulogne-Billancourt, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4473985403,2026-10-01
-linkedin,Contrôleur de gestion retail,Consolidation - Contrôleur de Gestion / Reporting (F/H),GIVENCHY,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4465336950,2026-10-01
-linkedin,Data Analyst Retail,DATA ANALYST QUALITE DE STOCK (F/H),Cdiscount,"Vémars, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474550126,2026-10-02
-linkedin,Data Analyst Retail,"IT Data, BI & Integration Analyst",Comptoir des Cotonniers,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474184651,2026-10-02
-linkedin,Demand Planner,"Lead Data Analyst, Supply Chain, Long-Term Planning",Amazon,"Clichy, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474368419,2026-10-02
-linkedin,Contrôleur de gestion retail,CDD Head of Business Analysis & Merchandising Transformation – Dior Homme,Christian Dior Couture,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474533157,2026-10-02
-linkedin,Data Analyst Retail,Apprenti(e) Purchasing Performance and Reporting Analyst,Valeo,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4455785138,2026-10-02
-linkedin,Data Analyst Retail,Data Analyst (F/H),Valeo,"Créteil, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4455771313,2026-10-02
-linkedin,Data Analyst Retail,Data Analyst,SoTalent,"Boulogne-Billancourt, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472919602,2026-10-02
-linkedin,Data Analyst Retail,Chef.fe de projet AMOA Commerce (H/F/N),leboncoin,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4456345949,2026-10-02
-linkedin,Prévision des ventes,Principal Presales Consultant | Asset Information Management,AVEVA,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4418290217,2026-10-02
-linkedin,Prévision des ventes,Head of Sales France & Belux H/F,Vacheron Constantin,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4463885919,2026-10-02
-linkedin,Prévision des ventes,Assistant(e) Commercial(e) F/H,Anne Caron le café de spécialité,"Orsay, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474192002,2026-10-02
-linkedin,Prévision des ventes,Conseillère/Conseiller en vente Cuisine,Leroy Merlin,"Vernouillet, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472975238,2026-10-02
-linkedin,Prévision des ventes,Consultant Senior Avant-Vente ServiceNow (F/H),Devoteam,"Levallois-Perret, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4357606715,2026-10-02
-linkedin,Prévision des ventes,Sales Director (m/f/d),Anton Paar France,"Les Ulis, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4409917193,2026-10-02
-linkedin,Demand Planner,Approvisionneur - H/F (CDI) Paris,WeFix,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474349315,2026-10-02
-linkedin,Demand Planner,GESTIONNAIRE APPROVISIONNEMENTS (CDI) H/F,Talents ADV-Supply,"Lagny-sur-Marne, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472841021,2026-10-02
-linkedin,Demand Planner,INTERNSHIP - EU Demand Planning - January - (H/F),Danone,"Rueil-Malmaison, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474358598,2026-10-02
-linkedin,Demand Planner,Stage - Demand Planning H/F - Rueil Malmaison (92),The HEINEKEN Company,"Rueil, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472576182,2026-10-02
-linkedin,Demand Planner,Responsable pièces de rechange Europe,Carrier,"Rueil-Malmaison, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472968305,2026-10-02
-linkedin,Contrôleur de gestion retail,Contrôleur de gestion magasin (F/H),Castorama,"Chennevières, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4450340507,2026-10-02
-linkedin,Contrôleur de gestion retail,CDD - Contrôleur de Gestion Junior - Horlogerie & Joaillerie Europe - H/F/X,CHANEL,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4464534085,2026-10-02
-linkedin,Contrôleur de gestion retail,Chef de département mode beauté F/H,Monoprix,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4464123530,2026-10-02
-indeed,Prévision des ventes,Stagiaire Data Analyst (LOB27-STA-03),Lobellia conseil,"Paris, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=9a64abff4ce52e88,2026-10-02
-indeed,Prévision des ventes,Charge(e) d'affaire sédentaire,GESTRA,"Trappes, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=8356ed4b7abfcd56,2026-10-02
-indeed,Prévision des ventes,Stage - Demand Planning H/F - Rueil Malmaison,The HEINEKEN Company,"Rueil-Malmaison, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=0d3d37597dad6f6d,2026-10-02
-indeed,Prévision des ventes,Stage - Planning sales & opération execution F/H - Rueil Malmaison,The HEINEKEN Company,"Rueil-Malmaison, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=3ec0d6852c223522,2026-10-02
-indeed,Prévision des ventes,Approvisionneur - H/F (CDI) Paris,WeFix,"Paris, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=20dab2c509e39bf6,2026-10-02
-indeed,Prévision des ventes,Ordonnanceur H/F,Andros,"Auneau, CVL, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=1a901aa906ea1187,2026-10-02
-indeed,Prévision des ventes,Technico-Commercial(e) - Smart solutions- H/F,Comatelec Schréder,"Villepinte, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=4b6fd4ac1e227161,2026-10-02
-indeed,Prévision des ventes,Stage : Planification Stratégique - Développement Produit Pièce de rechange,Stellantis,"Poissy, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=fcb435bc76d672dd,2026-10-02
-indeed,Prévision des ventes,Assistant commercial H/F,HIPP FRANCE,"Paris 8e, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=8e2f9b93447cb93f,2026-10-02
-indeed,Contrôleur de gestion retail,CDD – Contrôleur de Gestion E-commerce (H/F),Hermès,"Paris, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=de808fbca745d60f,2026-10-02
-indeed,Contrôleur de gestion retail,CDI - Contrôleur de Gestion (Belgique) (F/H/X),Sephora,"Neuilly-sur-Seine, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=4d071c0eeb83dd3a,2026-10-02
-hellowork,Contrôleur de gestion retail,Balenciaga - Worldwide Controlling Intern - December 2026 F - M H/F,Kering,Paris - 75,2026-10-01,https://www.hellowork.com/fr-fr/emplois/83960092.html,2026-10-02
-linkedin,Demand Planner,"Manager, Procurement",AMETEK,"Gennevilliers, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4465339028,2026-10-01
-linkedin,Demand Planner,Assistant(e) Supply Planner - H/F - Stage,Carte Noire,"Boulogne-Billancourt, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472809574,2026-10-03
-linkedin,Demand Planner,Stage - Assistant Business Analyst Demand Planning - Parfums Beauté EUROPE - Janvier 2027 - H/F/X,CHANEL,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4436273754,2026-10-03
-indeed,Prévision des ventes,Coordinateur COSC F/H,Tereos,"Moussy-le-Vieux, A8, FR",2026-10-01,https://fr.indeed.com/viewjob?jk=6e70d11809902833,2026-10-03
-linkedin,Data Analyst Retail,Senior Marketing Data Analyst,Qonto,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474371973,2026-10-04
-linkedin,Prévision des ventes,Assistant commercial en Assurances de personnes H/F,Gan Assurances,"Vernon, Normandy, France",2026-10-01,https://www.linkedin.com/jobs/view/4446361140,2026-10-04
-linkedin,Demand Planner,"Stage Mondelēz (LU, Oreo, Milka...) – Stagiaire Supply Chain ATP (H/F/X) – 6 mois – Boulogne-Billancourt – Janvier 2027",Mondelēz International,"Boulogne-Billancourt, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474361579,2026-10-04
-linkedin,Contrôleur de gestion retail,"Cheffe, Chef de département mode beauté",Monoprix,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4464117616,2026-10-04
-linkedin,Contrôleur de gestion retail,Directeur / Directrice d’Univers « Bazar & Maison »,WINNING SEARCH,"Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472975596,2026-10-04
-linkedin,Contrôleur de gestion retail,Senior Merchandising and Product Training Manager F/H,ICICLE,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472574091,2026-10-04
-linkedin,Contrôleur de gestion retail,Directeur de Magasin - Distribution Spécialisée - Chartres (H/F),Talents Commerciaux,"Chartres, Centre-Val de Loire, France",2026-10-01,https://www.linkedin.com/jobs/view/4456416571,2026-10-04
-linkedin,Prévision des ventes,VENDEUR CONSEIL - CDI H/F,Boulanger,"Thiais, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474344458,2026-10-05
-linkedin,Prévision des ventes,Clinical Sales Representative,Intuitive,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474181624,2026-10-05
-linkedin,Prévision des ventes,Presales Solution Consultant Polarion (ALM) h/f,Siemens Digital Industries Software,"Châtillon, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4445740833,2026-10-05
-linkedin,Demand Planner,Stage – Supply Chain & Production Planning (F/H),Adisseo,"Antony, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4474336796,2026-10-05
-linkedin,Demand Planner,Coordinateur des Opérations ADV H/F,AQUANTIS  l Cabinet de recrutement,"Paris, Île-de-France, France",2026-10-01,https://www.linkedin.com/jobs/view/4472946300,2026-10-05
 linkedin,Demand Planner,Stage Assistant(e) Category Manager Enseignes,Kellanova,"Boulogne-Billancourt, Île-de-France, France",,https://www.linkedin.com/jobs/view/4461168447,2026-09-29
 linkedin,Contrôleur de gestion retail,Chef de Secteur - GSB - H/F,Les Nouvelles Recrues - RPO recruiters collective,"Paris, Île-de-France, France",,https://www.linkedin.com/jobs/view/4462886288,2026-09-17
 linkedin,Data Analyst Retail,Web Analyst expérimenté H/F,NEXTON,"Paris, Île-de-France, France",,https://www.linkedin.com/jobs/view/4322692812,2026-09-15
